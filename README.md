@@ -1,12 +1,12 @@
 ## Olá, eu sou o João Monferrari, graduando em Engenharia de Computação e Desenvolvedor!
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joao-sql" height="30" width="40" src="https://github.com/joaomonferrari/portifolio-joao-monferrari/blob/main/assets/sql_logo.png">
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Joao-cpp" height="30" width="40" src="https://github.com/joaomonferrari/portifolio-joao-monferrari/blob/main/assets/cpp_logo.png"></div>br>
+  <img align="center" alt="Joao-cpp" height="30" width="40" src="https://github.com/joaomonferrari/portifolio-joao-monferrari/blob/main/assets/cpp_logo.png">
 </div>
   
   ##
