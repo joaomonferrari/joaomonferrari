@@ -8,6 +8,8 @@
   <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Joao-cpp" height="30" width="40" src="https://github.com/joaomonferrari/portifolio-joao-monferrari/blob/main/assets/cpp_logo.png">
 </div>
+
+![snake gif](https://github.com/joaomonferrari/joaomonferrari/blob/output/github-contribution-grid-snake.svg)
   
   ##
  
