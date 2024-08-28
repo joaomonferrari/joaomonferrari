@@ -27,6 +27,6 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   
 </div>
 
-![snake](.github/PROFILE-SNAKE.svg)
+![snake animation](https://github.com/joaomonferrari/joaomonferrari/blob/output/github-contribution-grid-snake2.svg)
 
 
