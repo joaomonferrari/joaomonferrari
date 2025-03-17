@@ -1,4 +1,4 @@
-## Olá, eu sou o João Monferrari, graduando em Engenharia de Computação e Desenvolvedor!
+## Olá, eu sou o João Monferrari, bacharel em Engenharia de Computação e Desenvolvedor!
 
 <div style="display: flex; align-items: flex-start;">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=joaomonferrari&show_icons=true&theme=algolia" alt="joaomonferrari" />
